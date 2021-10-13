@@ -1,3 +1,6 @@
 optConfig:
-  optInRepos:
-  - emtech-stretch-labs
+  optOutRepos:
+  - .github
+  - avanade.github.io
+  optOutPrivateRepos: true
+  optOutPublicRepos: false
