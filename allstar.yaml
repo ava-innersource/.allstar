@@ -1,6 +1,8 @@
 optConfig:
-  optOutRepos:
-  - .github
-  - avanade.github.io
-  optOutPrivateRepos: true
-  optOutPublicRepos: false
+ optOutRepos:
+ - .github
+ - avanade.github.io
+ optOutStrategy: true
+ optOutPrivateRepos: true
+ optOutPublicRepos: false
+ disableRepoOverride: true
